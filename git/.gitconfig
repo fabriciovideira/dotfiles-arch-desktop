@@ -1,0 +1,9 @@
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[user]
+	email = fabricio@allcomsistemas.com.br
+	name = Fabricio Videira
+[push]
+	followTags = true
